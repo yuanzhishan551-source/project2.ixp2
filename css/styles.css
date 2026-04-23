@@ -41,7 +41,7 @@ body {
 	padding: .5rem 1.5rem;
 	background-color: var(--accent2);
 	font-weight: bold;
-	margin-bottom: vaer(--margin-bottom);
+	margin-bottom: var(--margin-bottom);
 }
 
 
